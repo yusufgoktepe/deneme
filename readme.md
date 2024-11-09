@@ -1,9 +1,3 @@
-# selam
+# en baştan yapmaya basladım
 
-## merhabalar denemedir
-
-## bir deneme daha
-
-## ankara messi
-
-## evde deneme yapmak deneme
+## buurayı da kullanmaya çalısıyom veseelam
