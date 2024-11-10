@@ -1,10 +1,3 @@
-# en baştan yapmaya basladım
+# merhabalar
 
-## buurayı da kullanmaya çalısıyom veseelam
-
-## branch deneme
-
-# asdasd
-
-### merhaba
-
+## buse ve yusuf
